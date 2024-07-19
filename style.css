@@ -1,0 +1,92 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+h1
+{
+    text-align: center;
+    text-decoration: double underline;
+}
+h5
+{
+    text-align: center;
+    margin-top: 10px;
+}
+h4
+{
+    color: white;
+}
+h3
+{
+    text-decoration:wavy underline;
+}
+div
+{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+}
+#col1
+{
+    display: flex;
+    flex-direction: column;
+    background-color: #2e2020;
+    color: rgb(178, 184, 188);
+}
+#col2
+{
+    display: flex;
+    flex-direction: column;
+    background-color: #b88e8e;
+    color: rgb(79, 35, 35);
+    font-weight: 900;
+}
+.outer
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.outerpro
+{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.content
+{
+    display: flex;
+    flex-direction: column;
+}
+hr
+{
+    border: 5px solid black;
+}
+#img1
+{
+    margin-left: 150px;
+}
+#img
+{
+    margin-left: 100px;
+}
+.footer
+{
+    display: flex;
+    flex-direction: column;
+    margin-left: 300px;
+    justify-content: space-evenly; 
+}
+#footer
+{
+    background-color: black;
+}
+p
+{
+   margin-top: 10px;
+}
+body
+{
+    background-color:#f7dadaee;
+}
