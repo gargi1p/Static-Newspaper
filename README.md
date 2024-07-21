@@ -7,4 +7,4 @@ This project is a practice project that implements a basic newspaper layout usin
 ![Screenshot 2024-07-20 132558](https://github.com/user-attachments/assets/34140998-ffbc-423d-9d40-0c1084d943ee)
 ![Screenshot 2024-07-20 143228](https://github.com/user-attachments/assets/2e373dae-8450-40c7-a409-dbf901098eab)
 
-Go Live: file:///F:/practice%20project/Newspaper/index.html
+[Go Live: file:] (file:///F:/practice%20project/Newspaper/index.html)
