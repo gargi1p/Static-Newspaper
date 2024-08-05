@@ -8,4 +8,5 @@ This project is a practice project that implements a basic newspaper layout usin
 ![Screenshot 2024-07-20 143228](https://github.com/user-attachments/assets/2e373dae-8450-40c7-a409-dbf901098eab)
 
 Go Live -
-http://127.0.0.1:5500/home.html
+https://gargi1p.github.io/Static-Newspaper/
+
